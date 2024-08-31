@@ -1,6 +1,6 @@
-import { Loader } from './loader.js';
-import { SubRegion } from './sub-region.js';
-import { Country } from './country.component.js';
+import { Loader } from './src/components/loader.js';
+import { SubRegion } from './src/components/sub-region.js';
+import { Country } from './src/components/country.component.js';
 
 let subregions = [];
 
